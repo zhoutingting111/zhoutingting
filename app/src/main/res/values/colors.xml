@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#de9d77</color>
+    <color name="colorPrimaryDark">#de9d77</color>
+    <color name="colorAccent">#de9d77</color>
+
+    <color name="withe">#ffffff</color>
+    <color name="teal_300">#de9d77</color>
+    <color name="teal_400">#de9d77</color>
+    <color name="teal_500">#de9d77</color>
+    <color name="teal_600">#de9d77</color>
+    <color name="teal_700">#de9d77</color>
+
+</resources>
